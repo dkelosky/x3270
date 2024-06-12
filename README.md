@@ -24,3 +24,7 @@ Files supposedly go in `confDir`
 See `confDir` by running `c3270` and typing `set`:
 
 `confDir: /opt/homebrew/Cellar/x3270/4.3ga8/etc/x3270`
+
+## Hosts
+
+Go to [config dir](#keymap-files)
