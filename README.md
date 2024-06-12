@@ -27,4 +27,11 @@ See `confDir` by running `c3270` and typing `set`:
 
 ## Hosts
 
-Go to [config dir](#keymap-files)
+Go to [config dir](#keymap-files) and edit `ibm_hosts`, for example:
+
+```
+#tpx primary tpxdev.mainframe.net keymap(default)
+tpx primary tpxdev.mainframe.net 
+```
+
+Then you can run `c3270 tpx`.
