@@ -1,3 +1,7 @@
+## Man
+
+http://x3270.bgp.nu/Unix/c3270-man.html
+
 ## Keymap
 
 Keymaps support files or resources.  Unable to get files to work (description of how it works is below)
