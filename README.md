@@ -1,6 +1,7 @@
 ## Man
 
 http://x3270.bgp.nu/Unix/c3270-man.html
+https://x3270.miraheze.org/wiki/C3270
 
 ## Keymap
 
