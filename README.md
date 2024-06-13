@@ -9,7 +9,7 @@ Keymaps support files or resources.  Unable to get files to work (description of
 
 ### Keymap resources
 
-create a file in home directory `.c3270pro`.  Here is a basic useful mapping:
+create a file in home directory [`.c3270pro`](./.c3270pro).  Here is a basic useful mapping:
 
 ```
 ! Use the 'mine' keymap, defined below
