@@ -1,5 +1,5 @@
 c3270.DefaultFgBg: true
-c3270.Oversize: 162x60
+c3270.Oversize: 160x62
 ! Use the 'mine' keymap, defined below
 c3270.keymap: mine
 ! Definition of the 'mine' keymap
@@ -9,6 +9,7 @@ c3270.keymap.mine: \
  <Key>U+007F: Backspace()\n\
  Ctrl<Key>z: EraseEOF()\n\
  Ctrl<Key>q: Attn()\n\
+ Ctrl<Key>x: Newline()\n\
  <Key>U+00A1: Home() String("swap 1") Enter()\n\
  <Key>U+2122: Home() String("swap 2") Enter()\n\
  <Key>U+00A3: Home() String("swap 3") Enter()\n\
